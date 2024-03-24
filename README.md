@@ -31,13 +31,13 @@ Data Sorting: To prevent mis-matching during training, I implemented a sorting a
 Model Training: Finally, I trained my model on the dataset using the CNN-RNN architecture, incorporating the CTC loss function for improved performance.
 
 # Training dataset generated for the model:
-!(Training data)[https://github.com/Shashankss1205/HumanAI/blob/main/Image_Folder/train.png]
+![Training data](https://github.com/Shashankss1205/HumanAI/blob/main/Image_Folder/train.png)
 
 # Prediction using my CNN-RNN model:
-!(Predictions)[https://github.com/Shashankss1205/HumanAI/blob/main/Image_Folder/pred.png]
+![Predictions](https://github.com/Shashankss1205/HumanAI/blob/main/Image_Folder/pred.png)
 
 # Depiction of my trianing CTC loss:
-!(CTC Loss)[https://github.com/Shashankss1205/HumanAI/blob/main/Image_Folder/loss.png]
+![CTC Loss](https://github.com/Shashankss1205/HumanAI/blob/main/Image_Folder/loss.png)
 
 # Evaluation Metrics
 I evaluated the performance of my model based on the CTC (Connection Temporal Loss) metric, known for its effectiveness in character recognition tasks.
