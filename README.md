@@ -12,6 +12,11 @@ RenAIssance Project Tests for Prospective GSoC 2024 Applicants
 # Task: 
 I have developed a model based on convolutional-recurrent architectures for optically recognizing text in the provided dataset. Over the past 2 weeks, I have built this architecture from scratch and implemented it successfully.
 
+# Solution Notebook
+The CNN-RNN file is a stand alone file as mentioned to be made in the rules of the test.
+For running the code, one can simply run the .ipynb file in Google Collab or Jupyter Notebook.
+[Link](https://colab.research.google.com/drive/176BbSxKmBOUa_2oESO-etwvc44jjiw1u?usp=sharing)
+
 # Approaching the Task:
 I followed a very systematic approach for solving the task allocated:
 Research and Understanding: I began by exploring various articles and research papers related to Optical Character Recognition Models to understand their working principles thoroughly.
